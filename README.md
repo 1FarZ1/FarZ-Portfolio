@@ -1,3 +1,21 @@
-# MyPortfolio
- this a basic potfolio  i made using the help  of Codezilla Yt Channel
-Link: 
+# This is MY Personal Portfolio (I will fix it i guess)
+
+## Links
+-
+
+## Resources
+-
+-
+-
+-
+## Features
+-
+-
+-
+-
+## Sections
+-
+-
+-
+-
+ect
